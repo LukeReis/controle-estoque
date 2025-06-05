@@ -32,6 +32,4 @@ Ele permite:
   - `registro_entradas.xlsx` (historico de entradas)
   - `registro_retiradas.xlsx` (historico de saídas)
 
----
 
-## 📁 Estrutura do Repositório
