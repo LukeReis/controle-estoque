@@ -39,20 +39,8 @@ def log_acao(usuario, acao, descricao, quantidade=None, id_chamado=None,
 
 # Usuários autorizados (mesmos do seu código original)
 usuarios_autorizados = {
-    'lucas.gomes': '',
-    'lucas.reis.adm': '',
-    'juan.soares': '',
-    'juan.soares.adm': '',
-    'luan.freitas': '',
-    'luan.freitas.adm': '',
-    'rafael.andrade': '',
-    'rafael.andrade.adm': '',
-    'victor.gomes': '',
-    'victor.gomes.adm': '',
-    'lucelio.pereira': '',
-    'lucelio.pereira.adm': '',
-    'antonio.caroba': '',
-    'antonio.caroba.adm': ''
+    'seu.usuario': '',
+    'outro.usuario': '',
 }
 
 usuario_logado = getpass.getuser()
