@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# Arquivos de log
+*.log
+
+# Arquivos de IDE (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Sistemas Windows
+Thumbs.db
+Desktop.ini
+
+# Dados sensíveis (ocultar senhas ou chaves)
+*.pem
+*.key
